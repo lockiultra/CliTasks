@@ -1,0 +1,7 @@
+C:\Users\libin\source\repos\Test\Test\bin\Debug\Test.exe.config
+C:\Users\libin\source\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\libin\source\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\libin\source\repos\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\libin\source\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\libin\source\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\libin\source\repos\Test\Test\obj\Debug\Test.pdb
